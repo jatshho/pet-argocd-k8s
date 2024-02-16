@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/CloudSihmar/pet-argocd-k8s.git
+    repoURL: https://github.com/jatshho/pet-argocd-k8s.git
     targetRevision: HEAD
     path: .
   destination: 
