@@ -15,5 +15,5 @@ spec:
         app: pet-deploy
     spec:
       containers:
-      - image: ugyenjatsho:19
+      - image:jatsho/ugyen:19
         name: pet
